@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark-ips
